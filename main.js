@@ -48,7 +48,7 @@ function segundapag() {
       <h2>Como reduzir os riscos ao investir na bolsa de valores?</h2>
       <img src="img/seguro.png" alt="Imagem ilustrando de modo comico um investimento seguro">
       <p>Uma forma de reduzir o risco ao investir em ações é diversificar sua carteira de investimentos. Ao investir em ações de diferentes empresas e setores, você não depende exclusivamente de uma única empresa ou setor para obter lucro, o que ajuda a minimizar o risco de uma possível queda em um único investimento afetar sua carteira como um todo.</p>
-      <br>
+      <footer><a href="#logo"><button>Volte para o inicio!</button></a></footer>
       `;
     main.classList.remove('hide');
   }, 200);
